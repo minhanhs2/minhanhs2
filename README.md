@@ -7,7 +7,8 @@ Hi there 👋, I'm To Minh Anh!
 **About Me:**
 
 I'm currently studying at the School of Information and Communications Technology (SoICT) at Hanoi University of Science and Technology (HUST). Currently, I'm working as a Media Assistant for [SoICT](soict.hust.edu.vn).
-ハノイ工科大学 (HUST) の情報通信技術学部 (SoICT) で3年生をしています。今は、学部でメディアアシスタントとして働いています。
+
+ハノイ工科大学 (HUST) の情報通信技術学部 (SoICT) で3年生をしています。今は、[SoICT](soict.hust.edu.vn)でメディアアシスタントとして働いています。
 
 **Third-year student** 👨‍🎓 **| Aspiring Web Developer** 💻 **| Media Assistant** 📷
 
