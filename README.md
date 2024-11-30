@@ -11,6 +11,7 @@ I'm currently studying at the School of Information and Communications Technolog
 ハノイ工科大学 (HUST) の情報通信技術学部 (SoICT) で3年生をしています。今は、[SoICT](soict.hust.edu.vn)でメディアアシスタントとして働いています。
 
 **Third-year student** 👨‍🎓 **| Aspiring Web Developer** 💻 **| Media Assistant** 📷
+
 **大学3年生** 👨‍🎓 | **Web開発者志望** 💻 | **メディアアシスタント** 📷
 
 I'm passionate about becoming a web developer and I'm always eager to learn new things.
